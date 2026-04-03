@@ -37,7 +37,7 @@
   "devDependencies": {
     "@expo/vector-icons": "^10.0.3",
     "babel-preset-expo": "^5.1.0",
-    "jest-expo": "^33.0.0"
+    "jest-expo": "^54.0.17"
   },
   "private": true
 }
